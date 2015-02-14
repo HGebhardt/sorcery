@@ -9,6 +9,7 @@ module Sorcery
 
           require 'sorcery/providers/base'
           require 'sorcery/providers/facebook'
+          require 'sorcery/providers/foursquare'
           require 'sorcery/providers/twitter'
           require 'sorcery/providers/vk'
           require 'sorcery/providers/linkedin'
